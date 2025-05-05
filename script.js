@@ -122,7 +122,7 @@ let roundNumber = 1;
 
 function updateRoundTitle(count) {
   const titles = {
-    16: "Ronda de 16",
+    16: "Ronda de Cónclave",
     8: "Cuartos de final",
     4: "Semifinal",
     2: "Final"
